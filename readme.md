@@ -1,4 +1,8 @@
-# learn-go
+<h1 align="center">
+	<img width="400" src="media/go.png" alt="Gopher">
+	<br>
+	<br>
+</h1>
 
 ## Table of Contents
   1. Getting started
