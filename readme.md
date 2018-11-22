@@ -29,3 +29,9 @@
      * [Loop control statements](examples/control_flow/for/for.go)
         * [The break statement](examples/control_flow/for/for.go)
         * [The continue statement](examples/control_flow/for/for.go)
+  7. **[Functions](examples/functions)**
+     * [Function declaration](examples/functions/declaration/declaration.go)
+     * [Multiple Return Values](examples/functions/multiple_return/multiple_return.go)
+     * [Variadic Functions](examples/functions/variadic/variadic.go)
+     * [Closures](examples/functions/closure/closure.go)
+     * [Recursion](examples/functions/recursion/recursion.go)
