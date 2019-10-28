@@ -36,3 +36,4 @@
      * [Closures](examples/functions/closure/closure.go)
      * [Recursion](examples/functions/recursion/recursion.go)
      * [Methods](examples/method/method.go)
+  8. **[Concurrency](examples/concurrency/concurrency.md)**
